@@ -577,9 +577,9 @@ PlayerSettings:
   metroPackageVersion: 1.0.0.0
   metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: Microsoft Corporation
-  metroCertificateIssuer: Microsoft Corporation
-  metroCertificateNotAfter: 80ea4825ca73d301
+  metroCertificateSubject: Comcast Labs
+  metroCertificateIssuer: Comcast Labs
+  metroCertificateNotAfter: 00c7dc384c0bd401
   metroApplicationDescription: Decibel
   wsaImages: {}
   metroTileShortName: Decibel

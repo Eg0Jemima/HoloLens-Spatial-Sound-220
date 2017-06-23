@@ -5,9 +5,9 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-Decibel.sln: B2B61DE0ABAC5800CB6F8A5038BC536F
+Decibel.sln: modified
 Decibel\App.cs: 6E94B8B834B9CC012C487A8E84B0499E
-Decibel\Decibel.csproj: F87FA406990DA8A9E7D8F84F93FDA5B1
+Decibel\Decibel.csproj: C9E0B3F7970C559AD22E86AE06339E60
 Decibel\Decibel.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
 Decibel\Package.appxmanifest: 84CBCE144B73ED41D2E0CE9C26527A68
 Decibel\project.json: 1D02BC64BAC0D041019673A1C4C51737

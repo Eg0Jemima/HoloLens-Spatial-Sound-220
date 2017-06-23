@@ -212,12 +212,12 @@
 
   <ItemGroup>
     <ProjectReference Include="C:\Users\cilde\Documents\HoloLens-Spatial-Sound-220\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj">
-      <Project>{116c4fe0-f0af-4ed4-bb37-dbdfa8d0a3bb}</Project>
+      <Project>{242bbb34-2efd-44b2-afce-3390db2df43c}</Project>
       <Name>Assembly-CSharp</Name>
       <Private>False</Private>
     </ProjectReference>
     <ProjectReference Include="C:\Users\cilde\Documents\HoloLens-Spatial-Sound-220\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj">
-      <Project>{3277e630-3be5-4622-b8bc-4672b588cc65}</Project>
+      <Project>{75d5a8a7-68db-42e5-bd40-3db1afb8330d}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
       <Private>False</Private>
     </ProjectReference>
